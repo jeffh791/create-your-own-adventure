@@ -17,3 +17,4 @@ Valar morghulis
 Valar dohaeris
 
 These words spoken and you are now a faceless man, a merceiless assassin, on your way back to Braavos. 
+But are you a faceless man or a faceless woman? One does not know. One must detour to The Wall first to seek answers. 
